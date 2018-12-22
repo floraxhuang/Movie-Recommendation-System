@@ -35,3 +35,8 @@ tk=8.6.9=ha92aebf_0
 wheel=0.32.3=py36_0
 xz=5.2.4=h470a237_1
 zlib=1.2.11=h470a237_3
+pandas=0.23.4
+scipy=1.2.0
+matplotlib=3.0.2
+sklearn=0.20.2
+fastFM=0.2.11
