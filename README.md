@@ -13,3 +13,5 @@ We used the MovieLens 1M Dataset due to the following considerations:
 - Factorization Machine - No Side Information.ipynb : Factorization Machine with no side information but user and movie data
 - Factorization Machine - With Side Information.ipynb : Factorization Machine with side information including user demographic and movie genres
 - Factorization Machine Model Extension - Hybrid Model.ipynb : Efforts to improve the factorization machine model
+- Deep and Wide Model.ipynb : The deep and wide model implemented from the following paper: https://arxiv.org/pdf/1606.07792.pdf
+- Report.pdf : Report explaining the experiments done
