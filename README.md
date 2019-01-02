@@ -1,6 +1,7 @@
 # Recommendation Systems Using Factorization Machine and Wide and Deep Learning
 
 Authors: Yu Han Huang(yh3093), Deepak Ravishankar(dr2998)
+
 Final project for the Personalization: Theory and Applications class (Columbia University, Fall 2018)
 
 ## Business Problem:
