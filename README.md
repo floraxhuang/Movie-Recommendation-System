@@ -1,6 +1,7 @@
 # Recommendation Systems Using Factorization Machine and Wide and Deep Learning
 
-Team Members: Yu Han Huang(yh3093), Deepak Ravishankar(dr2998)
+Authors: Yu Han Huang(yh3093), Deepak Ravishankar(dr2998)
+Final project for the Personalization: Theory and Applications class (Columbia University, Fall 2018)
 
 ## Business Problem:
 In both Factorization Machines and Wide and Deep Learning, we want to learn how the algorithms can effectively recommend our users to the movies that they might like. We try to optimize our recommendation system to minimize the difference in our prediction of users’ rating and their real preference. Since the dataset we use is relatively large, we are also interested in knowing how well these algorithms scale with the data size. More detailed objective and evaluation of individual system are explained in the report.
